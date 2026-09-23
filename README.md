@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:101923,55:1A3549,100:3A687E&height=230&section=header&text=Eduardo%20Carvalho&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=C5D0D8)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=Pedro%20Esmeraldo&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=75&desc=Computer%20Science%20Student%20-%20Pentester&descSize=18&descAlignY=97&descColor=C5D0D8)](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Pedro+Esmeraldo&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Computer+Science+Student&descSize=60&descAlign=50&descAlignY=60)
 <p align="center">
 <!--
 **Rodolfaooo/Rodolfaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
