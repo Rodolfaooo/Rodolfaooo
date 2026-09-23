@@ -1,9 +1,6 @@
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=Pedro%20Esmeraldo&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=75&desc=Computer%20Science%20Student%20-%20Pentester&descSize=18&descAlignY=97&descColor=C5D0D8)](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Pedro+Esmeraldo&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Computer+Science+Student&descSize=60&descAlign=50&descAlignY=60)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=Pedro%20Esmeraldo&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=70&desc=Computer%20Science%20Student%20-%20Pentester&descSize=18&descAlignY=92&descColor=C5D0D8)](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Pedro+Esmeraldo&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Computer+Science+Student&descSize=60&descAlign=50&descAlignY=60)
 <p align="center">
 
-  apdkawpdkaopwdkpoaw
-
-  <\p>
 <!--
 **Rodolfaooo/Rodolfaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=60&descAlign=50&descAlignY=60)
