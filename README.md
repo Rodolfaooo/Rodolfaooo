@@ -55,8 +55,8 @@ Sou estudante do 2 semestre de Ciência da computação. Estudo para me tornar u
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-esmeraldo-ba0bb13b4/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/pedro-esmeraldo-ba0bb13b4/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedIn"/>
   </a>
 </p>
 
