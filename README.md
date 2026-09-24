@@ -20,4 +20,10 @@ Sou estudante do 2 semestre de Ciência da computação. Estudo para me tornar u
   />
 </p>
 
+<h2>O que estou aprendendo?</h2>
+
+<p align="justify">
+    Atualmente, além dos conhecimento que estou adquirindo ao longo do curso, estou estudando pelo tryhackme, seguindo os módulos da básico ao avançado. No momento estou no módulo Ciber Security 101. Além disso, sempre busco conhecimento sobre a prática no Youtube, em documentos e utilizando o Gemini.
+</p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=60&descAlign=50&descAlignY=60)
