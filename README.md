@@ -3,7 +3,7 @@
 
 
 ## Sobre
-
+Sou estudante do 2 semestre de Ciência da computação. Estudo para me tornar um excelente profissional na área de Cibersegurança, mais especificamente como Pentester. Gosto de muscar novos conhecimento relacionado a essa área da tecnologia, principalmente quando o assunto é aprender a encontrar vulnerabilidades.
 <!--
 **Rodolfaooo/Rodolfaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
