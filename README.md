@@ -24,14 +24,7 @@ Sou estudante do 2 semestre de Ciência da computação. Estudo para me tornar u
 
 ---
 
-<p align="center">
-    <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-eosin-seven-35.vercel.app/api?username=Rodolfaooo&show_icons=true&theme=dark"
-  />
-</p>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rodolfaooo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Rodolfaooo/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 ---
 
