@@ -23,8 +23,13 @@ Sou estudante do 2 semestre de Ciência da computação. Estudo para me tornar u
 </h3>
 
 ---
+<div align="center">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rodolfaooo\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Rodolfaooo/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+  <a href="https://github.com/Rodolfaooo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rodolfaooo&show_icons=true&theme=dark" alt="GitHub Stats">
+  </a>
+
+</div>
 
 ---
 
